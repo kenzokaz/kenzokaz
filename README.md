@@ -70,10 +70,10 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [Coach-Fit](https://github.com/Davidonwukwe/coach-fit) | Full-stack fitness tracker with AI recommendations (Google Gemini), workout analytics, and JWT auth | React · TS · Node.js · MongoDB · Gemini |
+| [ETL Analytics Pipeline](https://github.com/kenzokaz/toronto-airbnb-etl-pipeline) | Containerized ETL pipeline ingesting 15K+ Toronto Airbnb listings - Airflow DAGs, PostgreSQL star schema & Streamlit dashboard | Python · Airflow · PostgreSQL · Docker |
 | [Second-Hand Marketplace](https://github.com/kenzokaz/second-marketplace) | Buy/sell platform with auth, seller dashboard, admin panel, cart & order management | PHP · MySQL · Bootstrap 5 · JS |
-| [Toronto Airbnb Analysis](https://github.com/kenzokaz/toronto-airbnb-analysis) | Tableau dashboard across 5,000+ listings - neighbourhood trends, seasonality, host performance | Tableau · Excel |
-| [ETL Analytics Pipeline](https://github.com/kenzokaz/COSC4606_project) | Containerized ETL with Spark transforms, Airflow DAGs, PostgreSQL warehouse & Streamlit dashboard | Python · Spark · Airflow · Docker |
+| [Coach-Fit](https://github.com/Davidonwukwe/coach-fit) | Full-stack fitness tracker with AI recommendations (Google Gemini), workout analytics, and JWT auth | React · TS · Node.js · MongoDB · Gemini |
+| [Toronto Airbnb Analysis](https://github.com/kenzokaz/Toronto-airbnb-market-analysis) | Tableau dashboard across 5,000+ listings - neighbourhood trends, seasonality, host performance | Tableau · Excel |
 | [Autocut SMS Demo](https://github.com/kenzokaz/autocut-demo) | Live SMS automation for a barbershop - real number, instant keyword replies, zero manual effort | JS · Twilio · Node.js |
 
 ---
