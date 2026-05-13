@@ -74,7 +74,7 @@
 | [Second-Hand Marketplace](https://github.com/kenzokaz/second-marketplace) | Buy/sell platform with auth, seller dashboard, admin panel, cart & order management | PHP · MySQL · Bootstrap 5 · JS |
 | [Coach-Fit](https://github.com/Davidonwukwe/coach-fit) | Full-stack fitness tracker with AI recommendations (Google Gemini), workout analytics, and JWT auth | React · TS · Node.js · MongoDB · Gemini |
 | [Toronto Airbnb Analysis](https://github.com/kenzokaz/Toronto-airbnb-market-analysis) | Tableau dashboard across 5,000+ listings - neighbourhood trends, seasonality, host performance | Tableau · Excel |
-| [Autocut SMS Demo](https://github.com/kenzokaz/autocut-demo) | Live SMS automation for a barbershop - real number, instant keyword replies, zero manual effort | JS · Twilio · Node.js |
+| [TTC Bus Delay Dashboard](https://github.com/kenzokaz/ttc-bus-delay-powerbi) | Power BI dashboard analyzing 58K+ TTC bus delay incidents across Toronto - routes, causes, trends & direction breakdowns | Power BI · Power Query · DAX |
 
 ---
 
