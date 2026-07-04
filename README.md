@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kenzo+%F0%9F%91%8B;Data+Professional+%26+Software+Developer;Building+pipelines%2C+apps+%26+AI+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Kenzo;Data+Professional+%26+Software+Developer;Building+pipelines%2C+apps+%26+AI+tools" alt="Typing SVG" />
 
 <p>
   Data & IT professional based in <strong>Toronto</strong> · CS @ Algoma University (2026)<br/>
@@ -71,8 +71,8 @@
 | Project | Description | Stack |
 |--------|-------------|-------|
 | [ETL Analytics Pipeline](https://github.com/kenzokaz/toronto-airbnb-etl-pipeline) | Containerized ETL pipeline ingesting 15K+ Toronto Airbnb listings - Airflow DAGs, PostgreSQL star schema & Streamlit dashboard | Python · Airflow · PostgreSQL · Docker |
+| [Coach-Fit](https://github.com/kenzokaz/Coach-Fit.) | Full-stack fitness tracker with AI recommendations (Grok), workout analytics, and JWT auth | React · TS · Node.js · MongoDB · Grok |
 | [Second-Hand Marketplace](https://github.com/kenzokaz/second-marketplace) | Buy/sell platform with auth, seller dashboard, admin panel, cart & order management | PHP · MySQL · Bootstrap 5 · JS |
-| [Coach-Fit](https://github.com/Davidonwukwe/coach-fit) | Full-stack fitness tracker with AI recommendations (Google Gemini), workout analytics, and JWT auth | React · TS · Node.js · MongoDB · Gemini |
 | [Toronto Airbnb Analysis](https://github.com/kenzokaz/Toronto-airbnb-market-analysis) | Tableau dashboard across 5,000+ listings - neighbourhood trends, seasonality, host performance | Tableau · Excel |
 | [TTC Bus Delay Dashboard](https://github.com/kenzokaz/ttc-bus-delay-powerbi) | Power BI dashboard analyzing 58K+ TTC bus delay incidents across Toronto - routes, causes, trends & direction breakdowns | Power BI · Power Query · DAX |
 
